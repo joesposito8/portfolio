@@ -9,7 +9,7 @@ I'm a rising Sophomore at The Ohio State University majoring in Data Analytics. 
 
 ## Check out my skills!
 
-#### [Data Cleaning](data_cleaning.md)
+#### [Data Collection & Cleaning](data_cleaning.md)
 
 #### Analysis
 
