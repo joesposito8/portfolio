@@ -11,9 +11,9 @@ I'm a rising Sophomore at The Ohio State University majoring in Data Analytics. 
 
 #### [Data Engineering](data_engineering.md)
 
-#### Analysis
+#### Machine Learning
 
-#### Predictive Modeling
+#### Data Analysis
 
 #### [Data Visualization](data_visualization.md)
 
