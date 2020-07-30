@@ -3,10 +3,10 @@ I'm a rising Sophomore at The Ohio State University majoring in Data Analytics. 
 
 ## Completed Projects
 
-| Project | Description |
-| ------- | ----------- |
-| [Lichess Calculator](https://github.com/joesposito8/lichess) | Created website to predict the probability of given Lichess users winning a chess match. Also created heatmaps of past probabilities given user's rating difference to serve as a baseline. |
-| [Ohio School Inequity](https://github.com/joesposito8/ohio-school-inequity) | Explored Ohio School Inequity by comparing a number of factors to each school district's Performance Index for 2018. Organized, cleaned, and visualized data. |
+| Project | Repository | Description |
+| ------- | ---------- | ----------- |
+| [Lichess Calculator](https://lichess-predictor.herokuapp.com) | [lichess](https://github.com/joesposito8/lichess) | Created website to predict the probability of given Lichess users winning a chess match. Also created heatmaps of past probabilities given user's rating difference to serve as a baseline. |
+| [Ohio School Inequity](https://github.com/joesposito8/ohio-school-inequity/blob/master/results/Tableau_Report.pdf) | [ohio-school-inequality](https://github.com/joesposito8/ohio-school-inequity) | Explored Ohio School Inequity by comparing a number of factors to each school district's Performance Index for 2018. Organized, cleaned, and visualized data. |
 
 ## Check out my skills!
 
