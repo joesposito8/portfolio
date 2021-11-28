@@ -11403,6 +11403,7 @@ p.lead {
 
 .social-icons {
   margin-left: .5rem;
+  white-space: nowrap;
 }
 
 .social-icon {
